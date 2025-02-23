@@ -396,3 +396,8 @@ nav ul li a {
 nav ul li a:hover {
     background: #fa99b1;
 }
+.profile-card h2 {
+    margin-top: 15px;
+    font-size: 20px; /* NHỎ HƠN */
+}
+
